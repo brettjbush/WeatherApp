@@ -1,3 +1,3 @@
 # WeatherApp
 A simple weather app for Android
-Hopefully this worked
+I have edited the read me file
