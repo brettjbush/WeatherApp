@@ -15,4 +15,23 @@
     <string name="pressure">Pressure</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="ctimeXml_label">New Text</string>
+    <string name="lblCConditions">Current Conditions:</string>
+    <string name="lblCConditionsXML">New Text</string>
+    <string name="rbMetric">Metric</string>
+    <string name="rbImperial">Imperial</string>
+    <string name="lblTemperature">Temperature:</string>
+    <string name="lblTemperatureXML">New Text</string>
+    <string name="lblDewPoint">Dew Point:</string>
+    <string name="lblDewPointXML">New Text</string>
+    <string name="lblRelative">Relative Humidity:</string>
+    <string name="lblRelativeXML">New Text</string>
+    <string name="lblPressure">Pressure:</string>
+    <string name="lblPressureXML">New Text</string>
+    <string name="lblVisibility">Visibility:</string>
+    <string name="lblVisibilityXML">New Text</string>
+    <string name="lblWindSpeed">Wind Speed:</string>
+    <string name="lblWindSpeedXML">New Text</string>
+    <string name="lblGusts">Gusts:</string>
+    <string name="lblGustsXML">New Text</string>
 </resources>
