@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="zip_label">Zip Code: </string>
+    <string name="go_button">Go</string>
+    <string name="ctime_label">Current Time: </string>
+    <string name="ccond_label">Current Conditions: </string>
+    <string name="metric">Metric</string>
+    <string name="imperial">Imperial</string>
+    <string name="temp">Temperature</string>
+    <string name="visibility">Visibility</string>
+    <string name="dew_point">Dew Point</string>
+    <string name="wind_spd">Wind Speed</string>
+    <string name="rel_hum">Relative Humidity</string>
+    <string name="gusts">Gusts</string>
+    <string name="pressure">Pressure</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
